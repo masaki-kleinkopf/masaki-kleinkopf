@@ -21,7 +21,7 @@
 I am creative, inquisitive and disciplined frontend developer with previous background as a professional jazz musician 🎵🎺🎷.  I'm passionate about learning new tech and solving complex problems in a collaborative environment.
 
 <p>
-   <a href="https://www.linkedin.com/in/masaki-kleinkopf/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+   <a href="https://www.linkedin.com/in/masakikleinkopf/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
    <a href="mailto:masaki.kleinkopf@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a> 
 </p>
