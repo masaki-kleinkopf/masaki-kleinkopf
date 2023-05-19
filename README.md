@@ -19,7 +19,7 @@
 
 ## About Me:
 
-I am creative, inquisitive and disciplined frontend developer with previous background as a professional jazz musician 🎵🎺🎷.  I enjoy the constant learning opportunities in coding and am passionate about increasing diversity and social-impact in tech. I hope to bring the work ethic and creativity I cultivated in my music practice to my budding career in tech.
+Frontend developer with previous background as a professional jazz musician 🎵🎺🎷. Currently working in Nuxt and Sanity.
 
 <p>
    <a href="https://www.linkedin.com/in/masakikleinkopf/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
