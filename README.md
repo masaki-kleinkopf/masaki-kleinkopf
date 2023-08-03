@@ -19,7 +19,7 @@
 
 ## About Me:
 
-Frontend developer with previous background as a professional jazz musician 🎵🎺🎷. Currently working in Nuxt and Sanity.
+Frontend developer with previous background as a professional jazz musician 🎵🎺🎷. 
 
 <p>
    <a href="https://www.linkedin.com/in/masakikleinkopf/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
