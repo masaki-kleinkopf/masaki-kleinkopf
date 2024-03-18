@@ -62,14 +62,5 @@ Frontend developer with previous background as a professional jazz musician 🎵
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
 
-## Processes/Concepts:
-<p>
-  <img src="https://img.shields.io/badge/OOP%20-EDD016.svg?&style=for-the-badge&logo=OOP&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TDD%20-6EEE80.svg?&style=for-the-badge&logo=TDD&logoColor=black"/>
-  <img src="https://img.shields.io/badge/AGILE%20-2A82E2.svg?&style=for-the-badge&logo=AGILE&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RESTful APIs%20-AD51E0.svg?&style=for-the-badge&logo=AGILE&logoColor=white"/>
-  <img src="https://img.shields.io/badge/UX/UI%20-212224.svg?&style=for-the-badge&logo=AGILE&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Responsive Design%20-CA4245.svg?&style=for-the-badge&logo=AGILE&logoColor=white"/>
-</p>
 
 
